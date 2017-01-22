@@ -1,0 +1,15 @@
+body{
+	margin:0; 
+}
+h3{
+	padding-top: 20px;
+}
+.content{
+	width: 80%;
+	margin:0 auto;
+	padding-bottom: 90vh;
+}
+.tips{
+	color:#989898;
+	line-height: 26px;
+}
